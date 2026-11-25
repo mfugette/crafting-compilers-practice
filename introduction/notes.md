@@ -40,7 +40,6 @@ The following is a list of things I wrote down, not necessarily because I didn't
 
 **What I knew:**
 
-- Bytes have addresses in memory (duh).
 - Pointer variables are simply variables that store a location in memory.
 
 **What I forgot:**
